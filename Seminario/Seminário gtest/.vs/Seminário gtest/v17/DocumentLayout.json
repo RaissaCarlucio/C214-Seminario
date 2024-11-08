@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\usuario\\Desktop\\C214-Seminario\\Seminario\\Semin\u00E1rio gtest\\Semin\u00E1rio gtest\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Semin\u00E1rio gtest\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\usuario\\Desktop\\C214-Seminario\\Seminario\\Semin\u00E1rio gtest\\Semin\u00E1rio gtest\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Semin\u00E1rio gtest\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,15 +26,15 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "main.h",
-              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\C214-Seminario\\Seminario\\Semin\u00E1rio gtest\\Semin\u00E1rio gtest\\main.h",
-              "RelativeDocumentMoniker": "Semin\u00E1rio gtest\\main.h",
-              "ToolTip": "C:\\Users\\usuario\\Desktop\\C214-Seminario\\Seminario\\Semin\u00E1rio gtest\\Semin\u00E1rio gtest\\main.h",
-              "RelativeToolTip": "Semin\u00E1rio gtest\\main.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\C214-Seminario\\Seminario\\Semin\u00E1rio gtest\\Semin\u00E1rio gtest\\pch.h",
+              "RelativeDocumentMoniker": "Semin\u00E1rio gtest\\pch.h",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\C214-Seminario\\Seminario\\Semin\u00E1rio gtest\\Semin\u00E1rio gtest\\pch.h",
+              "RelativeToolTip": "Semin\u00E1rio gtest\\pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-08T12:21:52.096Z",
+              "WhenOpened": "2024-11-08T12:57:07.155Z",
               "EditorCaption": ""
             },
             {
@@ -41,9 +45,22 @@
               "RelativeDocumentMoniker": "Semin\u00E1rio gtest\\test.cpp",
               "ToolTip": "C:\\Users\\usuario\\Desktop\\C214-Seminario\\Seminario\\Semin\u00E1rio gtest\\Semin\u00E1rio gtest\\test.cpp",
               "RelativeToolTip": "Semin\u00E1rio gtest\\test.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-08T12:15:52.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.h",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\C214-Seminario\\Seminario\\Semin\u00E1rio gtest\\Semin\u00E1rio gtest\\main.h",
+              "RelativeDocumentMoniker": "Semin\u00E1rio gtest\\main.h",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\C214-Seminario\\Seminario\\Semin\u00E1rio gtest\\Semin\u00E1rio gtest\\main.h",
+              "RelativeToolTip": "Semin\u00E1rio gtest\\main.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-08T12:21:52.096Z",
               "EditorCaption": ""
             }
           ]

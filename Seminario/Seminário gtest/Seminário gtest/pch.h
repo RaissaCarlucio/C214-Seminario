@@ -1,7 +1,7 @@
-//
-// pch.h
-//
+#ifndef PCH_H
+#define PCH_H
 
-#pragma once
-
+// Adicione as cabeçalhos necessários aqui
 #include "gtest/gtest.h"
+
+#endif // PCH_H
