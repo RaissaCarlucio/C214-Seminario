@@ -1,7 +1,7 @@
-#include "pch.h"
+#include <gtest/gtest.h>
 #include "main.h"
 
-TEST(TestCaseName, TestName) {
-  EXPECT_EQ(1, 1);
-  EXPECT_TRUE(true);
+TEST(CharacterTest, HealthInitialization) {
+    Character character;
+    EXPECT_EQ(character.getHealth(), 100);
 }

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\usuario\\Desktop\\C214-Seminario\\Seminario\\Semin\u00E1rio gtest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85862268-2A2F-4969-8C38-801335480E1E}|Semin\u00E1rio gtest\\Semin\u00E1rio gtest.vcxproj|C:\\Users\\usuario\\Desktop\\C214-Seminario\\Seminario\\Semin\u00E1rio gtest\\Semin\u00E1rio gtest\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{85862268-2A2F-4969-8C38-801335480E1E}|Semin\u00E1rio gtest\\Semin\u00E1rio gtest.vcxproj|solutionrelative:Semin\u00E1rio gtest\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\usuario\\Desktop\\C214-Seminario\\Seminario\\Semin\u00E1rio gtest\\Semin\u00E1rio gtest\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Semin\u00E1rio gtest\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85862268-2A2F-4969-8C38-801335480E1E}|Semin\u00E1rio gtest\\Semin\u00E1rio gtest.vcxproj|C:\\Users\\usuario\\Desktop\\C214-Seminario\\Seminario\\Semin\u00E1rio gtest\\Semin\u00E1rio gtest\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{85862268-2A2F-4969-8C38-801335480E1E}|Semin\u00E1rio gtest\\Semin\u00E1rio gtest.vcxproj|solutionrelative:Semin\u00E1rio gtest\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\usuario\\Desktop\\C214-Seminario\\Seminario\\Semin\u00E1rio gtest\\Semin\u00E1rio gtest\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Semin\u00E1rio gtest\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.h",
               "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\C214-Seminario\\Seminario\\Semin\u00E1rio gtest\\Semin\u00E1rio gtest\\main.h",
               "RelativeDocumentMoniker": "Semin\u00E1rio gtest\\main.h",
@@ -35,13 +35,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "test.cpp",
               "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\C214-Seminario\\Seminario\\Semin\u00E1rio gtest\\Semin\u00E1rio gtest\\test.cpp",
               "RelativeDocumentMoniker": "Semin\u00E1rio gtest\\test.cpp",
               "ToolTip": "C:\\Users\\usuario\\Desktop\\C214-Seminario\\Seminario\\Semin\u00E1rio gtest\\Semin\u00E1rio gtest\\test.cpp",
               "RelativeToolTip": "Semin\u00E1rio gtest\\test.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-08T12:15:52.596Z",
               "EditorCaption": ""
